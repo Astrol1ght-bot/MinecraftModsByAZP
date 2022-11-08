@@ -1,2 +1,2 @@
 # MinecraftModsByAZP
-mods de mainkra bien pichudos
+mods de maincraft 
